@@ -12,5 +12,3 @@ for i in range(lower_limit, upper_limit + 1):
 
 print("sum of odd numbers up to given limit : ", odd_sum)
 print("sum of even numbers up to given limit : ", even_sum)
-
-
