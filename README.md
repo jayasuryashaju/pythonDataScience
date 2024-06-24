@@ -29,7 +29,3 @@ To get started with the content in this repository:
 ## Contributing
 
 Feel free to fork this repository and submit pull requests if you have any improvements or additional examples that could benefit other learners.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
