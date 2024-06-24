@@ -1,5 +1,8 @@
 """
 lst[start_index: end_index: step] => works until end_index - 1
+
+negative index:
+    lst[-1 (start index): -n(end index): step]
 """
 
 lst = [40, 10, 1, 35, 29, 47, 21, 25, 3, 0, 100]
