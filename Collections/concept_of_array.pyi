@@ -8,7 +8,7 @@ name  = "luminar"
     to store more than one value to a variable
 
 Array:
-    A colection of homogenous data
+    A collection of homogenous data
 
     java program example:
         int marks = new marks[2]
