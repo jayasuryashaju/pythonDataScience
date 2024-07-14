@@ -9,14 +9,13 @@
 """
 
 limit = int(input("enter a limit : "))
-temp = 1
-value = 1
-for i in range(1, limit*2):
-    if temp < limit:
-        print(str(value) * temp)
-        temp += 1
-        value += 1
-    else:
-        value -= 1
-        temp -= 1
-        print(str(value) * temp)
+
+for i in range(1, limit):
+    for j in range(i):
+        print(i, end=" ")
+    print()
+
+for i in range(limit-2, 0, -1):
+    for j in range(i):
+        print(i, end=" ")
+    print()
